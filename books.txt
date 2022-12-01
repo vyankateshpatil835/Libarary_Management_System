@@ -1,0 +1,384 @@
+1	Power Devices & Machines	J.S.ChitodeU. A. Bakshi	Technical
+2	Data Structures through C	G.S. Baluja	Dhanpat Rai
+3	Digital Signal Processing	P.Ramesh Babu	Scitech
+4	Network Analysis	Bhatt	nirali
+5	Industrial Management	B.C. Kulkarni	Tech-Max
+6	Industrial Management	Sachin Kulkarni	Tech-Max
+7	Industrial Management	Sachin Kulkarni	Tech-Max
+8	Analog Communication For Online Exam	J.S.KATRE	TECH MAX
+9	Solid State Devices & Circuits	A.P.Godse,U. A. Bakshi	Technical
+10	Power Devices And Machines	Jawale ,Khandekar,Mrs. Kulkarni	Nirali
+11	Foundation Of Electronics	J. R. Cogdell	Pearson
+12	Foundation Of Electronics	J. R. Cogdell	Pearson
+13	Foundation Of Electronics	J. R. Cogdell	Pearson
+14	Foundation Of Electric Power	J. R. Cogdell	Pearson
+15	Electrical & Electronics Engineering	HILL	Mc Graw Hill
+16	Electronic Devices & Circuits	P. Ramesh Babu	Scitech
+17	Microprocessor & Microcontrollers	Sumitra Mandal	Mc Graw Hill
+18	Signals And System For Online Exam	Dr. J.S.Chitode	Technical
+19	Modern Power Electronics	P. C. Sen	S.Chand
+20	Integrated Circuit Applications	A.P.Godse,U. A. Bakshi	Technical
+21	Integrated Circuit Applications	A.P.Godse,U. A. Bakshi	Technical
+22	System Program And Operating System	Dilip Kumar	Techmax
+23	Computer Organization & Architecture	A.P.Godse,U. A. Bakshi	Technical
+24	Computer Organization & Architecture	U.S.Shah,Dilip Kumar Sultania	Tech-Max
+25	Computer Organization & Architecture	U.S.Shah,Dilip Kumar Sultania	Tech-Max
+26	Object Oriented Programming	A.A. Puntambekar	Technical
+27	Semiconductor Memories	Ashok Sharma	Phi
+28	Communication Theory	J. S. Chitode	Technical
+29	Communication Theory	J. S. Katre	Tech-Max
+30	VLSI Technology	S. M. Sze	Mcgraw-Hill
+31	Microelectronics Circuit	Adel Sedra,Kenneth C. Smith	Oxford
+32	Fundamental Of Signals & Systems	Robert, Sharma	Mcgraw-Hill
+33	Higher Engineering and Mathematics	B. S. Grewal	Khanna Publications
+34	Fundamentals Of Data Structure in C	Horowitz, Sahni	University Press
+35	Manufacturing Planning & Control For Supply	Vollman, Berry	Mcgraw-Hill
+36	Digital Image Processing	Rafael Gonzalez, Woods	Pearson
+37	Electronic Circuits	Donald A. Neaman	Mcgraw-Hill
+38	Microcontrollers	Ajay Deshmukh	Mcgraw-Hill
+39	The 8051 Microcontrollers	Kenneth Ayala	Penram International
+40	Microcontroller And Application	U. S. Shaha	Tech-Max
+41	IETE journal of Research	Volume 62, No. 1	IETE
+42	Industrial Management	Sachin Kulkarni	Tech Max
+43	Signal coding and Estimation Theory	G. R. Patil,R.C. Jaiswal	Nirali
+44	Verbal Ability & Interview Techniques	Techrel	Techrel
+45	Signal coding and Estimation Theory	J. S. Katre R. A. Barapte	Techmax
+46	Introduction to System Design Using Integrated Circuits	B. S. Sonde	New Age International
+47	The 8051 Microcontrollers	Kenneth Ayala	Penram International
+48	The Art Of Electronics	Horowitz & Hill	Cambridge
+49	Electrical circuits and machines for online exam	J. S. Katre	Tech-Max
+50	Electronic Product Design	Jadhav, R. Jagdale, V. Eshpande	Nirali
+51	Embedded System & RTOS	Deepa Pandit	Nirali
+52	Embedded System & RTOS	Prasad	Dreamtech
+53	Engineering Drawing	Dhananjay Jolhe	Mcgraw-Hill
+54	Digital Signal Processing	Dr. Shaila D Apte	Wiley
+55	Introduction To Analog & Digital Communication	Simon Haykin	Wiley
+56	data structures and algorithms	Dilip Kumar	Techmax
+57	Principles & Applications Of GSM	Vijay Garg, Joseph Wilkes	Pearson
+58	Modern Digital Electronics	R.P.Jain	Mcgraw-Hill
+59	Modern Digital Electronics	R.P.Jain	Mcgraw-Hill
+60	Electromagnetics and Transmission Lines	U. A. Bakshi 	Technical
+61	Integrated Electronics	Jacob Milliman	Mcgraw-Hill
+62	Integrated Electronics	Jacob Milliman	Mcgraw-Hill
+63	Introduction to Radar System	Merrill Skolnik	Mcgraw-Hill
+64	Electronic & Instrumentation Design	Kaustubh Gitapathi	Chintan
+65	Control Systems	Gopal	Mcgraw-Hill
+66	Electronic Communication 1	J.S.Chitode	Technical
+67	Voice Network	R.C.Jaiswal, Mrs Rashmi Apte	Nirali
+68	Principals Of Communication Engg.	Anokh Singh	S.Chand
+69	Communication System 1	J.S.Katre	Techmax
+70	Linear Circuit Analysis	Uday Bakshi, Ajay Bakshi	Technical
+71	Electronic Measurement & Instrumentation	Akhilesh Upadhyay, Dr. Sanjay	Dhanpat Rai
+72	Network Theory	Dr. Sachin D. ruikar	Nirali
+73	Network Theory	U.A.Bakshi, A.V.Bakshi	Technical
+74	Advanced Microprocessor	Veer, Bhat, Avande	Nirali
+75	Fundamentals Of Basic Analog Communication	K.K.Shah	Dhanpat Rai
+76	Communication System 1	J.S.Chitode	Technical
+77	Wireless Digital Communication	Dr. Kamilo Feher	Phi
+78	Digital Systems	Raj Kamal	Pearson
+79	Feedback Control Systems	Satyanarayan, Dr. D. S. Bhide	Technova
+80	Analog Communication Systems	P. Chakrabarti	Dhanpat Rai
+81	Network Analysis & synthesis 	Gosh	Mcgraw-Hill
+82	Engg.Ckt Analysis	Hayt, Kemmerly, Durbin	Mc-Graw Hills
+83	Let Us-C	Yashwant Kanitkar	Bpb
+84	Digital Communication	J.S.Chitode	Technical
+85	Image Processing In C	Philips	Bpb
+86	Power Electronics	P.C.Sen	Mc-Graw Hill
+87	Digital Communication	R.S Jaiswal, G.R.Patil	Nirali
+88	Modern Electronic Communication Principals &	SharmaSinha	Dhanpat Rai
+89	Digital Design	John Wakarly	Phi
+90	Data Structure	Dilipkumar Sultania	Techmax
+91	Digital Communication	P. Ramkrishn Rao	Mcgraw-Hill
+92	Digital Communication	Bernard Sklar	Pearson
+93	Principles Of Communication Engg.	Anokh Singh	S. Chand
+94	Advanced Microprocessors	Y. Rajasree	New Age International
+95	Networks And Systems	D. Roy Choudhury	New Age International
+96	Control Systems Engineering	I J Nagrath, M. Gopal	New Age International
+97	IETE journal of Research	Volume 62, No. 2	IETE
+98	Introduction To Control Engineering	Ajit K Mandal	New Age Internationa
+99	Basic Electronics	B. L. Theraja	S.Chand
+100	Principals Of Electronic Devices And Circuits	B.L.Theraja	S.Chand
+101	Modern Digital Electronics	R.P.Jain	Mc Graw Hill
+102	Control System	R.A.Bapapate	Tech-Max
+103	Data Structures	Udit Agrawal	Kataria
+104	Theory And Performance Of Electrical Machines	J.B.Gupta	Kataria
+105	Electronics And Communication Engineering	J.B.Gupta	Kataria
+106	Electronic Device And Circuit	J.B.Gupta	Kataria
+107	Micro Electronics 	Dr. Sanjay Sharma	Kataria
+108	Electronics And Communication Engineering	J.B.Gupta	Kataria
+109	Control System	U. A. Bakshi	Technical
+110	Digital Electronics	Kharate	Oxford
+111	Modern Power Electronics	P.C.Sen	S.Chand
+112	Digital Signal Processing	Nagoor Kani	Mc Graw Hill
+113	Digital Signal Processing	J.S.Chitode	Technical
+114	Fundamentals Of Engg. Electronics	Sunil Bhooshan	Oxford
+115	Electronics And Communication Engg.	J.B.Gupta	Kataria
+116	Fundamentals Of Electrical Engg. And Electronics	B.L.Theraja	S.Chand
+117	Data Communication And Networking	Forouzan	Mc Graw Hill
+118	Basic Electronics	B.L.Theraja	S.Chand
+119	Antenna And Wave Propagation	Sisir Das	Mc Graw Hill
+120	Antenna And Wave Propagation	Sisir Das	Mc Graw Hill
+121	Microprocessor And Interfacing	Senthil Kumar ,S.K.Shah	Oxford
+122	Optical Fiber Communication	Mrs. Anasuia Kalavar	Tech Max
+123	Optical Fiber And Fiber Communication System	Subir Kumar Sarkar	S.Chand
+124	Fiber Optic Communication	D.C.Agrawal	S.Chand
+125	Operational Amplifier	George Clayton, Steve Winder	Newnes
+126	Information Theory, Coding And Cryptography	Ranjan Bose	Mc Graw Hill
+127	Electronic Insruments and Measurements	R.A. Barapte, B.D.Shinde	Technova
+128	Data Communications And Networking	Sanjay Sharma	KTSON
+129	Data Structures	Lipschutz	Mc Graw Hill
+130	Integrated Circuit Applications	A.P.Godse,U. A. Bakshi	Technical
+131	Data Structures And Algorithms	A.A. Puntambekar	Technical
+132	Network Theory	U.A.Bakshi , A.V.Bakshi	Technical
+133	Information Theory, Coding And Cryptography	Rajan Bose	Mc Graw Hill
+134	Digital Communication	J. S. Katre	Techmax
+135	Electronic Devices And Circuits	A.P.Godse,U. A. Bakshi	Technical
+136	Digital Logic Design	Khandekar	Nirali
+137	Engg. Catalogue 2014	--	Kataria
+138	Signals And System For Online Exam	Dr. J.S.Chitode	Technical
+139	EDC For Online Exam	A.P.Godse,U. A. Bakshi	Technical
+140	DSA For Online Exam	A.A. Puntambekar	Technical
+141	D.E. For Online Exam	A.P.Godse,U. A. Bakshi	Technical
+142	Network Theory	U.A.Bakshi, A.V.Bakshi	Technical
+143	Electrical And Electronic Engg. 2011	--	Mc Graw Hill
+144	Digital Communication	J.S.Katre	Tech Max
+145	Electromagnetics and Transmission Lines	U. A. Bakshi	Technical
+146	Microprocessor Architecture 	U. S. Shaha	Tech-Max
+147	Basic Electronics Engg. Book Bee Online	J.S.Katre	Tech Max
+148	Basic Electronics Engg. Online Question Bank	R. C. Jaiswal	Nirali
+149	Data Structures And Algorithms	A.A. Puntambekar	Technical
+150	Network Theory	J. S. Katre	Tech Max
+151	Object Oriented Programming 	Darshan Medhane	Techmax
+152	Antenna & Wave Theory 	Sandip Vali	Techmax
+153	Electronic Communication Systems	William Schweber	Phi
+154	Speech And Audio Processing	Dr. Shaila D Apte	Wiley
+155	Optical Fiber Communication	Gerdkeiser	Mc Graw Hill
+156	Linear Integrated Circuits	D. Roy Choudhury	New Age International
+157	Modern Television Practice	R.R.Gulati	New Age International
+158	Monochrome And Color Television	R.Rgulati	New Age International
+159	Microcontroller And Application	U. S. Shaha	Tech-Max
+160	Data Structures And Algorithms For online exam	A.A. Puntambekar	Technical
+161	Analog Communication	R.S.Sedha	S.Chand
+162	Electronics Devices And Circuits	B.L.Theraja	S.Chand
+163	Electromagnetic Field	U. A. Bakshi	Technical
+164	IETE journal of Research	Volume 57, No. 1	IETE
+165	Industrial Management	V.S.Bagad	Technical
+166	Basic Statistics	B. L. Agrawal	New Age International
+167	Modern Digital Electronics	R. P. Jain	Mc Graw Hill
+168	Programming Languages Design And Implementation	Terrence W.Pratt	Prentice Hall
+169	Digital Signal Processing	John G.Proakis	Persons
+170	ARM System developers guide	Elsevier	Andrew Slos
+171	Embedded System Building Book	Jean J. Labrosse	CMP Book
+172	Communication System(Analog and Digital)	Dr.Sanjay Sharma	Katson
+173	Principle of Electromagnetism	R.G.Kadusker	Wiley India
+174	Broadband Wireless Mobile	LU	Wiley
+175	Embedded Linux System Design and Development	Jean J.Labrosse	CMP Books
+176	Signals And System For Online Exam	Dr. J.S.Chitode	Technical
+177	Effective English Speaking Skill	 	 
+178	Data Structure and Algorithm Analysis in C++	M.A.Weiss	Persons
+179	Network Theory For online Exam	U. A. Bakshi	Technical
+180	Pattern Classification	R.O.Duda	Wiley
+181	Fundamental of Speech Recongnition	Lawrence Rabinar	Pearsons
+182	Data Structures and Algorithm	Narashimha KAumanchi	Career Monk
+183	Microwave Devices and Circuits	Samuel Y.Liao	Pearsons
+184	DIP Using MATLAB	Rafeel GOnzale	Mc-Graw
+185	Microwave Devices and Circuits	Samuel Y.Liao	Pearsons
+186	Discrete Time Signal Processing	Alen Oppenham	Pearson
+187	Discrete Time Signal Processing	Alen Oppenham	Pearson
+188	DIP Using MATLAB	Rafeel GOnzale	Mc-Graw
+189	Microwave Devices and Circuits	Samuel Y.Liao	Pearsons
+190	Microwave and Radar Engineering	Dr.M.Kulkarni	Umesh
+191	Microwave and Radar Engineering	Dr.M.Kulkarni	Umesh
+192	Microwave and Radar Engineering	Dr.M.Kulkarni	Umesh
+193	Microwave Engineering	David M.Pozar	Wiley
+194	Microwave Engineering	David M.Pozar	Wiley
+195	Microwave Engineering	David M.Pozar	Wiley
+196	Steve Jobs Now in Marathi	Manish Aacharya	Wonder Land
+197	Microwave Engineering	V.S.Bagad	Technical
+198	Computer Network	G.R.Patil	Techmax
+199	Computer Network	V.S.Bagad	Technical
+200	Operating System and Administration	Sharmistha Desai	Techmax
+201	Analog Communication	A.P.Godse,U. A. Bakshi	Technical
+202	Signal And System 	Dr. J.S.Chitode	Technical
+203	Signals And System For Online Exam	J.S.Katre	Techmax
+204	Computer Network	J.S.Katre	Techmax
+205	Signals And System For Online Exam	J.S.Katre	Techmax
+206	Industrial Management	Mahajan	Nirali
+207	VLSI design & techniques	Dr. D.S. Bormane	Nirali
+208	Digital Signal Processing	Ramesh Babu	 
+209	Wireless and Cellular Communication	DR.Sanjay Sharma	Nirali
+210	Power Electronics	S. D. Sawant	Katson
+211	Digital Communication	DR.Sanjay Sharma	Katson
+212	Digital Signal Processing	DR.Sanjay Sharma	Katson
+213	Electronic Principles	DR.Sanjay Sharma	Katson
+214	Probability Random Variable	Dr.K.M.Soni	Katson
+215	Signal And System	DR.Sanjay Sharma	Katson
+216	Digital Electronics and Logic Design	DR.Sanjay Sharma	Katson
+217	Circuits and System	Dr.K.M.Soni	Katson
+218	Communication System	DR.Sanjay Sharma	Katson
+219	Data Communication	DR.Sanjay Sharma	Katson
+220	Verbal Ability & Interview Techniques	Techrel	Tech Rel
+221	Digital Image Processing	Sanjeevani Shaha	Nirali
+222	Data Structure and Aigorithm	Mukund Wani	Success
+223	Network Theory	Prof. Bhalchandra Dhokale	Success
+224	Microcontroller and Applications	Prof. Ravindra Gahane	Success
+225	Electronics Devices and Circuits	Prof. vitthal Jagtap	Success
+226	System Programming and Operating System	Prof. vitthal Jagtap	Success
+227	Electromagnetic theory and Transmission lines	Subba Rao	Success
+228	Microwave Engineering	Prof.B.A.Sonkamble	Success
+229	Computer Network	Prof. vitthal Jagtap	Success
+230	Digital Communication	Prof. vitthal Jagtap	Success
+231	Digital Signal Processing	Swapnil Nalawade	Success
+232	VLSI design and technology	Sagar shinde	Success
+233	Signal and System	Prof.B.A.Sonkamble	Success
+234	Verbal Ability & Interview Techniques	Techrel	techrel
+235	Microwave and Radar Engineering	Dr.M.Kulkarni	Umesh
+236	Digital Communication and Networking	Forouzon	Mc-Graw Hill
+237	Digital Image Processing	Gonzalviz	Pearsons
+238	System Programming	Dhamdhere	Mc-Graw Hill
+239	Digital Communication	Simon Haykin	Wiley
+240	Microcontroller and Application	Ajay Deshmukh	Mcgraw-Hill
+241	System Programming and Operating System	Dhamdhere	Mc-Graw Hill
+242	Digital Signal Processing	John G.Proakis	Pearsons
+243	Digital Communication	Simon Haykin	Wiley
+244	The 8051 Microcontroller	Mazidi	Mc-KINALY
+245	Digital Communication	Simon Haykin	Wiley
+246	Data Communication	William Schweber	Wiley
+247	PIC Microcontroller and Embedded System	Mckinlay	Pearsons
+248	Electromagnetics	J A Edminster	Mc-Graw
+249	Digital Communication	Kranti Rekha	Scitech
+250	Modern Digital Electronics	R P Jain	Mc-Graw
+251	Power Electronics	J.S.Katre	Techmax
+252	Microprocessor and Microcontroller	R Theagarajan	Scitech
+253	Digital Signal Processing	Dr. Shaila D Apte	Wiley
+254	Electronic Instrument Design	Kim Fowler	Oxford
+255	Microwave Engineering	Prof.Jayshri Joshi	Techmax
+256	Network Theory	R.G.Kaduskar	PVGP
+257	Modern Digital & Analog Communication System	B.P.Lathi	Oxford
+258	Linear Integrated Circuts	Salviahonan	Mc-Graw hill
+259	IETE news latter	IETE	IETE
+260	IETE Journal of Education	IETE	IETE
+261	Stephen Hawking Jivan charitra	Kristin Larcen	JAICO
+262	Benjamin Franklin Atma Charitra	Benjamin Branklin	Goyals Huts
+263	Albert Einstein	Albert Einstein	JAICO
+264	Signal & Systems	Nargoor Kani	Mc-Graw hill
+265	Digital Signal Processing	Ramesh Babu	Scitech
+266	Telecommunication Switching	J.E.Flood	Pearsons
+267	Operational Amplifier	George cly hm	elsevier
+268	Audio & Video Systems	R.G.Gupta	Technical
+269	Telivision & Video Engineering	A.M.Dhake	Mc-Graw hill
+270	Electronic Instrumentation	H.S.Kalsi	Mc-Graw hill
+271	OPAMPs & Linear Integrated Circuits	R.A.Gaikawad	Prenice hall
+272	VHDL Primer	J.Bhaskar	Phi
+273	Industrial Engineering & Production Management	M.Telasang	Schand Aniso
+274	Electronic Devices & Circuit	S.Gupata	Dhanpat  Rai
+275	OPAMPs & Linear Integrated Circuits	R.A.Gaikawad	PHI
+276	Structured Computer Organization	A.Tanehbaum	PHI
+277	Network Theory	U. A. Bakshi	Technical
+278	Electronic Wave & Radiations	Edward C. Jordan	PHI
+279	Microprocessor Architecture Program & Aapplications	Gaonkar	PRI
+280	Audio Video Engineering	R.G.Gupta	TATA Mc-Graw hill
+281	Audio Video Engineering	R.G.Gupta	TATA Mc-Graw hill
+282	Audio Video Engineering	R.G.Gupta	TATA Mc-Graw hill
+283	Optical Fiber & Optical Communication System	Subir Kumar	S.Chand
+284	Electronic Devices & Circuit	Theodore	PEARSON
+285	Digital Signal Processing	R. A. Barapate	Techmax
+286	Linear Control System	B.S.Manlee	Khanna
+287	The 8051 Microcontroller & Embedded System	Mazidi	PEARSON
+288	Object Oriented Programmming	Balguruswami	PEARSON
+289	Satellite Communication	Timothy Pratt	Willey
+290	Wireless Communication	Rappaport	PHI
+291	Advance Microprocessor Peripheral	A.K.Raj	Mc-Graw hill
+292	Modern Digital Electronics	R.P.Jain	Mc-Graw hill
+293	Microwave & Radar Engineering	M.Kulkarni	UMESH
+294	Audio & Video System	R.G.Gupta	TATA Mc-Graw hill
+295	Antenna Theory & Design	Robert Euiott	Willey
+296	Telecomm Switching & Network	Thiggarajan	PHI
+297	Electronic Principles	Albert Paul	Mc-Graw hill
+298	Electronics Design & Product	Khurjekar	Chinttan
+299	The 8051 Microcontroller & Embedded System	Mazidi	PEARSON
+300	Optical Fiber Communication	Gerd Keisar	Mc-Graw hill
+301	Basic Electronics & Linear Circuits	Bhorgow	Mc-Graw hill
+302	Modern Digital & Analog Communication System	 	 
+303	The 8051 Microcontroller & Embedded System	Mazidi	PEARSON
+304	Digital Electronics(Online)	J. S. Katre	Tech Max
+305	Fundamental Of Signals & System	Robert Sharma	Mc-Graw hill
+306	Computer Network	TanenBaum	PHI
+307	Satellite Communication	Timothy Pratt	Willey
+308	Active Network Synthesis & Design	Doryanani	Willey
+309	Power Electronics	P.C.Sen	TATA Mc-Graw hill
+310	Digital Signal Processing	John Proakis	PEARSON
+311	Data Structures & Algorithm	Symour Lipscurtz	TATA Mc-Graw hill
+312	Opamp and Linear Integrated Circuits	R.Gaikwad	PHI
+313	The 8051 Microcontroller & Embedded System	Mazidi	PEARSON
+314	OPAMPs & Linear ICs	R.Gaikwad	PHI
+315	The 8051 Microcontroller & Embedded System	Mazidi	PEARSON
+316	Power Electronics	P.S.Bimbhra	Khanna
+317	Wireless Communication	Rappaport	PEARSON
+318	Verbal Ability & Interview Techniques	Techrel	Tech Rel
+319	Verbal Ability & Interview Techniques	Techrel	Tech Rel
+320	Verbal Ability & Interview Techniques	Techrel	Tech Rel
+321	Verbal Ability & Interview Techniques	Techrel	Tech Rel
+322	Verbal Ability & Interview Techniques	Techrel	Tech Rel
+323	Verbal Ability & Interview Techniques	Techrel	Tech Rel
+324	Verbal Ability & Interview Techniques	Techrel	Tech Rel
+325	D.E. For Online Exam	J.S.Katre	Tech-Max
+326	Embedded Processor	Harish Narula	Tech-Max
+327	MCQ- Data Structures & Algorithm	J.S.Katre	Tech-Max
+328	MCQ- Data Structures & Algorithm	J.S.Katre	Tech-Max
+329	MCQ-Electronics Devices & Circuits	J.S.Katre	Tech-Max
+330	Digital Electronics and Logic Design	J.S.Katre	Tech-Max
+331	Signals and Systems	J.S.Katre	Tech-Max
+332	Electronics Devices & Circuits	J.S.Katre	Tech-Max
+333	Electrical circuits and machines	J.S.Katre	Tech-Max
+334	Data Structures & Algorithm	J.S.Katre	Tech-Max
+335	Digital Electronics	J.S.Katre	Tech-Max
+336	Electronics & Communication Engineering	J.B.Gupta	Katson
+337	Digital Electronics & Basic Design	Dr.Sanjay Sharma	Katson
+338	Digital Communication	Dr.Sanjay Sharma	Katson
+339	Basic Electronics	J.B.Gupta	Katson
+340	Data Structures Using C	Udit Agrawal	Katson
+341	Electronics Devices & Circuits	J.B.Gupta	Katson
+342	Digital Signal Processing (Using MATLAB Programs)	Dr.Sanjay Sharma	Katson
+343	Microwave Engineering. & Radar	Dr. M. Kulkarni	Umesh
+344	Microwave Engineering. & Radar	Dr. M. Kulkarni	Umesh
+345	Microwave Engineering. & Radar	Dr. M. Kulkarni	Umesh
+346	Microwave Engineering. & Radar	Dr. M. Kulkarni	Umesh
+347	Microwave Engineering. & Radar	Dr. M. Kulkarni	Umesh
+348	Artificial Intelligence	Russell Norvig	Pearson
+349	The MOS Transistor	Tsividis	Oxford
+350	CCNA routing & Switching	Cisco Press	CISCO
+351	Probability & Statistics	De Groot	Pearson
+352	Artificial Intelligence CCIE	Winsten	Pearson
+353	Development Professional Routing TCP/IP	Doyle carroll	Pearson
+354	VLSI Digital Signal Processing System Design & developement	Keshab Parhi	Willey
+355	Statistics in Nutshell	SarabBoslaugh	SPD
+356	Analytics for the Internet of Things	Andrew Minterr	PacKT
+357	Winners Never Cheats	 	 
+358	How Computers Work 	white downs	BPB Publications
+359	Let Us-C	Yashwant Kanetkar	BPB Publications
+360	Let Us-C	Yashwant Kanetkar	BPB Publications
+361	Digital Logic and Computer design	M. Morris Mano	Pearson
+362	Essential Scrum	Kenneth Rubin	Pearson
+363	Quantitative Aptitude	Dr. R. S. Agarwal	S. Chand
+364	Make electronics	Charles Platt	O'Reilly
+365	Android cookbook	Lan F. Darwin	O'Reilly
+366	Principles of Electromagnetics	Matthew N. O. Sadiku	Oxford
+367	Data Communication and Networking 5E	Forouzan	Mc Graw Hill
+368	Basic Electronics	B. L. Thareja	S. Chand
+369	Let Us C++	Yashwant Kanetkar	BPB Publications
+370	Let Us C++	Yashwant Kanetkar	BPB Publications
+371	A tour of C++	Bjarne Stroustrup	Pearson
+372	Discovering Modern C++	Peter Gottschling	Pearson
+373	Engineering Electromagnetics	W H Hayt J A Buck	Mc Graw Hill
+374	More Puzzles	Shakuntala Devi	Orient paperbacks
+375	The job of members	Shakuntala Devi	Orient paperbacks
+376	Wise and otherwise	Sudha Murty	Penguin Books
+377	10-minute Brain Games	Dr. Gareth Moore	 
+378	That’s the Way We Meet	Sudeep Nagarkar	Penguin Books
+379	Google Resume	Gayle Laakmann McDowell	Wiley
+380	One Indian Girl(E)	Chetan Bhagat	Rupa Publications
+381	One Indian Girl(M)	Chetan Bhagat	Rupa Publications
+382	No fear 	Shakesopeare	Sonnets
+383	The books of numbers	Shakuntala Devi	Orient paperbacks
+384	A first Mensa Puzzle book	Philip J Charter & K. Russell	 
